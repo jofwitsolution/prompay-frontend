@@ -12,7 +12,7 @@ const Meta = ({ title, description, keywords }) => {
       <Script
         async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1183699483083667"
-        crossorigin="anonymous"
+        crossOrigin="anonymous"
       ></Script>
     </Head>
   );
